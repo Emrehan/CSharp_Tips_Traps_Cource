@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Tips_Traps_Cource", "CSharp_Tips_Traps_Cource.csproj", "{240BD8B1-8450-425E-B8B8-7CA590BF006D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{240BD8B1-8450-425E-B8B8-7CA590BF006D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240BD8B1-8450-425E-B8B8-7CA590BF006D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240BD8B1-8450-425E-B8B8-7CA590BF006D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240BD8B1-8450-425E-B8B8-7CA590BF006D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECA15F9A-C580-488D-8E8A-487345929FDC}
+	EndGlobalSection
+EndGlobal
